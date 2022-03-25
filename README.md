@@ -2,7 +2,7 @@
 I was curious about the performance of dfferent sizes of Deep Q Networks when applied to a handful of OpenAI Gym reinforcement learning games, so I put together a simple project to test a variety of differently sized DQNs on a couple of Gym games. 
 If you want to read more about my observations, you can see a short summary I wrote [here](https://drive.google.com/file/d/1cgKxDrovG6gWUBYMt3pmxFIv8A4QeZmq/view?usp=sharing).
 
-![image info](./useful_viz/lunar-64x2-strong.png "Lunar Lander DQN (64x2) Performance")
+![Sample Image](https://github.com/nicholas-rose/variable-dqn/blob/main/useful_vis/lunar-64x2-strong.png?raw=true "Lunar Lander DQN (64x2) Performance")
 
 # Setup and Usage
 To install the dependencies, run
